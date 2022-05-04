@@ -8,7 +8,8 @@ A detailed portfolio of upcoming projects in ML & DS in upgrad course
 
 Fraud detetction sample project repository 
 
-![GITHUB Link](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![fraud-detection](/assets/img/Fraud-Detection.png)
+![GITHUB Link for the project](https://github.com/praveenpadmanabhuni/fraud_detetcion_sample.git)
 
 
 
